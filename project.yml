@@ -1,11 +1,11 @@
 #### General information about the project    ####
 #### All this will be visible on DataCamp.com ####
-title          : "The title of the project. Max 41 characters."
+title          : "Phonetic Similarity Poem"
 description    : >
-  A short description of the project, Max 100 characters. 
+  This example project uses the phonetics library to take one poem and make another. 
 long_description: |
-  A longer description of the project around 6 - 10 lines (where a line is 80 characters). Written in markdown.
-  Should mention and link to prerequisite courses.
+  The poetics library uses the AStar algorithm, along with a pronunciation dictionary,
+  to convert one poem into another with phonologically similar words.
 time_needed: "45 minutes" # "30/45/60 minutes".
 
 
